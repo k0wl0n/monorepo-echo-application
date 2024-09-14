@@ -3,8 +3,8 @@ kind: Kustomization
 resources:
 - deployment.yaml
 - service.yaml
-namespace: production
+namespace: staging
 images:
 - name: kowlon/go-echo
   newName: 490004610217.dkr.ecr.ap-southeast-1.amazonaws.com/echo-app-cicd
-  newTag: prod-v.0.0.2
+  newTag: stg-v.0.0.15
