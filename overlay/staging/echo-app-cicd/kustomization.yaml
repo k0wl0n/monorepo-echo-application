@@ -8,4 +8,4 @@ namespace: staging
 images:
 - name: kowlon/go-echo
   newName: kowlon/go-echo
-  newTag: v3
+  newTag: v2
