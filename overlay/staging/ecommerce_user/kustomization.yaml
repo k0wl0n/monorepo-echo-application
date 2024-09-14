@@ -8,4 +8,4 @@ namespace: staging
 images:
 - name: kowlon/go-echo
   newName: 490004610217.dkr.ecr.ap-southeast-1.amazonaws.com/ecommerce_user
-  newTag: stg-v.0.0.3
+  newTag: stg-v.0.0.4
