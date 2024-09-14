@@ -1,1 +1,0 @@
-# monorepo-echo-application

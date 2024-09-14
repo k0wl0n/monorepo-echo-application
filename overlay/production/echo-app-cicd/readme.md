@@ -1,1 +1,0 @@
-echo-app-cicd folder for cicdasda
